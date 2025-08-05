@@ -68,7 +68,7 @@ if __name__ == "__main__":
     password = "Hpassword654321"
     rclone_conf_path = "~/.config/rclone/rclone.conf"
     rclone_conf = ""
-    space_name = LMArena
+    space_name = "LMArena"
     repoid = f"{userid}/{space_name}"
 
     # readme.md的字符串内容
