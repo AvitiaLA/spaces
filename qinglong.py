@@ -75,7 +75,7 @@ if __name__ == "__main__":
     readme_content = f"""
 ---
 title: {space_name}
-emoji: 😻
+emoji: ⚡
 colorFrom: red
 colorTo: blue
 sdk: docker
